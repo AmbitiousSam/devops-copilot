@@ -1,0 +1,32 @@
+.env
+.venv
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+*.egg
+*.egg-info/
+*.dist-info/
+*.whl
+*.coverage
+*.mypy_cache/
+*.pytest_cache/
+*.vscode/
+# IDE specific files
+.idea/
+# macOS specific files
+.DS_Store
+# Windows specific files
+Thumbs.db
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+# Python bytecode files
+*.py[cod]
+# Cython compiled files
+*.so
+# Distribution / packaging
+dist/
+build/
